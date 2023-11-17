@@ -1,9 +1,3 @@
-// @ts-check
-// `@type` JSDoc annotations allow editor autocompletion and type checking
-// (when paired with `@ts-check`).
-// There are various equivalent ways to declare your Docusaurus config.
-// See: https://docusaurus.io/docs/api/docusaurus-config
-
 import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
@@ -15,17 +9,11 @@ const config = {
   // Set the production url of your site here
   url: "https://your-docusaurus-site.example.com",
   // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
-
+  organizationName: "Zentachain GmbH",
+  projectName: "zentanetwork-docs",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
@@ -41,10 +29,7 @@ const config = {
       ({
         docs: {
           sidebarPath: "./sidebars.js",
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          editUrl: "https://github.com/ZentaChain/docs-zentanetwork",
         },
         theme: {
           customCss: "./src/css/custom.css",
@@ -59,39 +44,23 @@ const config = {
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
       navbar: {
-        // title: "CHAIN",
+        // title: "Zentanetwork", // Only used if no `logo` image is provided
         logo: {
-          alt: "My Site Logo",
+          alt: "Zentachain Logo",
           src: "img/logo.svg",
+          href: "https://zentachain.io/", // `siteConfig.baseUrl`.
         },
         items: [
           {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "left",
-            label: "Tutorial",
+            label: "Documentation",
           },
           {
-            href: "https://github.com/facebook/docusaurus",
-            label: "GitHub",
+            type: "dropdown",
+            label: "Community",
             position: "right",
-          },
-        ],
-      },
-      footer: {
-        style: "dark",
-        links: [
-          {
-            title: "Docs",
-            items: [
-              {
-                label: "Tutorial",
-                to: "/docs/intro",
-              },
-            ],
-          },
-          {
-            title: "Community",
             items: [
               {
                 label: "Telegram",
@@ -104,6 +73,30 @@ const config = {
               {
                 label: "Twitter",
                 href: "https://twitter.com/zentachain",
+              },
+            ],
+          },
+          {
+            href: "https://github.com/zentachain",
+            label: "GitHub",
+            position: "right",
+          },
+        ],
+      },
+      // colorMode: {
+      //   defaultMode: "dark",
+      //   disableSwitch: false,
+      //   respectPrefersColorScheme: false,
+      // },
+      footer: {
+        style: "dark",
+        links: [
+          {
+            title: "Docs",
+            items: [
+              {
+                label: "Tutorial",
+                to: "/docs/intro",
               },
             ],
           },

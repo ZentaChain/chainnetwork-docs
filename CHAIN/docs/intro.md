@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# About Zentanetwork
+# About
 
 Zentanetwork is a transformative Layer 2 solution, crafted to revolutionize the Telecom industry. It's built on the robust OP stack and designed to create a decentralized, secure, and reliable network specifically for Telecom services. This network aims to address the unique challenges of the Telecom sector, offering enhanced efficiency and capabilities through its innovative $CHAIN L2 Network.
 

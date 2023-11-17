@@ -2,46 +2,22 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# About Zentanetwork
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Zentanetwork is a transformative Layer 2 solution, crafted to revolutionize the Telecom industry. It's built on the robust OP stack and designed to create a decentralized, secure, and reliable network specifically for Telecom services. This network aims to address the unique challenges of the Telecom sector, offering enhanced efficiency and capabilities through its innovative $CHAIN L2 Network.
 
-## Getting Started
+## Layer 2 Integration
+- Zentanetwork operates as a Layer 2 solution atop Ethereum, ensuring security and scalability.
+- It supports seamless integration with Layer 1 networks like Ethereum and Polygon, facilitating faster transactions and lower fees.
 
-Get started by **creating a new site**.
+## Telecom and IoT Solutions
+- Combines high-speed telecommunications with state-of-the-art IoT technologies.
+- Creates a smarter, more adaptable network tailored to the needs of the digital age.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Open-Source
+- Developed on the open-source Optimism OP Stack, Zentanetwork is committed to transparency and community-driven innovation.
+- It symbolizes a step forward in leveraging open-source collaboration for technological advancements in the Telecom domain.
 
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+## Scalability and Efficiency
+- The $CHAIN L2 Network introduces a novel scaling approach that significantly boosts the network's performance and efficiency.
+- It addresses the limitations of traditional Layer 1 networks, making it ideal for Telecom and IoT applications.

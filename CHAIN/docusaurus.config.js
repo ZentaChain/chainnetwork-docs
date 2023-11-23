@@ -2,21 +2,16 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Zentanetwork",
+  title: "Zentachain Devs",
   tagline: "The Scaled Telecom Blockchain",
   favicon: "img/favicon.ico",
-
-  // Set the production url of your site here
-  url: "https://your-docusaurus-site.example.com",
+  url: "https://devs.zentachain.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   baseUrl: "/",
   organizationName: "Zentachain GmbH",
-  projectName: "zentanetwork-docs",
+  projectName: "devs-zentachain",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: "en",
     locales: ["en"],
@@ -29,7 +24,7 @@ const config = {
       ({
         docs: {
           sidebarPath: "./sidebars.js",
-          editUrl: "https://github.com/ZentaChain/docs-zentanetwork",
+          editUrl: "https://github.com/ZentaChain/devs-zentachain",
         },
         theme: {
           customCss: "./src/css/custom.css",
@@ -38,17 +33,29 @@ const config = {
     ],
   ],
 
+  plugins: [
+    async function myPlugin(context, options) {
+      return {
+        name: "docusaurus-tailwindcss",
+        configurePostCss(postcssOptions) {
+          postcssOptions.plugins.push(require("tailwindcss"));
+          postcssOptions.plugins.push(require("autoprefixer"));
+          return postcssOptions;
+        },
+      };
+    },
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: "img/docusaurus-social-card.jpg",
+      image: "img/zentachain-social-card.jpg",
       navbar: {
-        // title: "Zentanetwork", // Only used if no `logo` image is provided
         logo: {
           alt: "Zentachain Logo",
-          src: "img/logo.svg",
-          href: "https://zentachain.io/", // `siteConfig.baseUrl`.
+          src: "img/zentachain.png",
+          href: "/docs/intro", // `siteConfig.baseUrl`.
         },
         items: [
           {
@@ -83,30 +90,21 @@ const config = {
           },
         ],
       },
-      // colorMode: {
-      //   defaultMode: "dark",
-      //   disableSwitch: false,
-      //   respectPrefersColorScheme: false,
-      // },
+
+      colorMode: {
+        defaultMode: "dark",
+        disableSwitch: false,
+        respectPrefersColorScheme: false,
+      },
       footer: {
         style: "dark",
-        links: [
-          {
-            title: "Docs",
-            items: [
-              {
-                label: "Tutorial",
-                to: "/docs/intro",
-              },
-            ],
-          },
-        ],
         copyright: `Copyright © ${new Date().getFullYear()} Zentachain`,
       },
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      themes: ["@docusaurus/theme-search-algolia"],
     }),
 };
 

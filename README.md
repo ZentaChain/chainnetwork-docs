@@ -5,6 +5,18 @@ Zentanetwork Documentation: This documentation provides a comprehensive guide to
 
 ### Installation
 
+### NVM 
+
+Please follow up: https://github.com/nvm-sh/nvm
+
+```
+nvm install 20
+```
+```
+nvm use 20
+```
+
+
 ```
 $ yarn
 ```

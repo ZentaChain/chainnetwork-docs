@@ -97,7 +97,7 @@ const config = {
         respectPrefersColorScheme: false,
       },
       footer: {
-        style: "dark",
+        // style: "dark",
         copyright: `Copyright © ${new Date().getFullYear()} Zentachain`,
       },
       prism: {

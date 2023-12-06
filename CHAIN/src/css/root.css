@@ -376,7 +376,6 @@ html[data-theme='dark'] {
   --ifm-color-scheme: dark;
   --ifm-background-color: #0a0b0d;
   --ifm-background-surface-color: #1e2025;
-  --ifm-footer-background-color: var(--ifm-background-surface-color);
   --feature-title-color: var(--ifm-color-white);
 
   --green0: 0, 51, 30;

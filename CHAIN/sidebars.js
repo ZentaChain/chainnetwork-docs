@@ -44,7 +44,7 @@ const sidebars = {
     // { type: "doc", id: "cookie-policy" },
     // { type: "doc", id: "disclaimer" },
     // { type: "doc", id: "contact" },
-    { type: "doc", id: "imprint" },
+    // { type: "doc", id: "imprint" },
     { type: "doc", id: "faq" },
   ],
 };

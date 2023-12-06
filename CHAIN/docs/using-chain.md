@@ -1,7 +1,7 @@
 ---
-title: Connect CHAIN
+title: Use CHAIN
 sidebar_position: 1
-slug: /connect-chain
+slug: /using-chain
 ---
 
 # Connect to CHAIN

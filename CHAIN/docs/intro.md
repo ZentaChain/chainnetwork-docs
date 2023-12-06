@@ -5,11 +5,11 @@ sidebar_position: 2
 
 # About
 
-Zentanetwork is a transformative Layer 2 solution, crafted to revolutionize the Telecom industry. It's built on the robust OP stack and designed to create a decentralized, secure, and reliable network specifically for Telecom services. This network aims to address the unique challenges of the Telecom sector, offering enhanced efficiency and capabilities through its innovative $CHAIN L2 Network.
+CHAIN network is a transformative Layer 2 solution, crafted to revolutionize the Telecom industry. It's built on the robust OP stack and designed to create a decentralized, secure, and reliable network specifically for Telecom services. This network aims to address the unique challenges of the Telecom sector, offering enhanced efficiency and capabilities through its innovative $CHAIN L2 Network.
 
 ## Layer 2
 
-- Zentanetwork operates as a Layer 2 solution atop Ethereum, ensuring security and scalability.
+- CHAIN network operates as a Layer 2 solution atop Ethereum, ensuring security and scalability.
 - It supports seamless integration with Layer 1 networks like Ethereum and Polygon, facilitating faster transactions and lower fees.
 
 ## Telecom & IoT
@@ -19,7 +19,7 @@ Zentanetwork is a transformative Layer 2 solution, crafted to revolutionize the 
 
 ## Open-Source
 
-- Developed on the open-source Optimism OP Stack, Zentanetwork is committed to transparency and community-driven innovation.
+- Developed on the open-source Optimism OP Stack, CHAIN network is committed to transparency and community-driven innovation.
 - It symbolizes a step forward in leveraging open-source collaboration for technological advancements in the Telecom domain.
 
 ## Scalability & Efficiency

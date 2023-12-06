@@ -14,7 +14,7 @@ Each contract is listed with its name and a direct link to its address for easy 
 
 ---
 
-<!-- ## Zentanetwork Mainnet
+<!-- ## CHAIN network Mainnet
 
 ### Multicall3
 
@@ -41,7 +41,7 @@ Each contract is listed with its name and a direct link to its address for easy 
 | Quoter V2                          | [0x](https://chainscan.org/address/0x)    |
 | Swap Router                        | [0x](https://chainscan.org/address/0x)    | -->
 
-<!-- ## Zentanetwork Testnet (Sepolia)
+<!-- ## CHAIN network Testnet (Sepolia)
 
 ### Uniswap v3 / v4
 

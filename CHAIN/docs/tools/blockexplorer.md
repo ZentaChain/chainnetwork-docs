@@ -3,7 +3,7 @@ title: Explorers
 slug: /tools/block-explorers
 ---
 
-# Zentanetwork Explorers
+# CHAIN network Explorers
 
 Explore the vibrant world of CHAIN with a selection of advanced blockchain explorers tailored to enhance your experience.
 

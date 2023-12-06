@@ -28,7 +28,7 @@ Access to the Services necessitates a compatible cryptocurrency wallet ("Wallet"
 Our Services include:
 - **The Sequencer:** Records and reports Zentachain transactions.
 - **Bridge Interface:** Facilitates blockchain message broadcasting.
-- **Zentanetwork Testnet:** Provides a testing environment for application developers.
+- **CHAIN network Testnet:** Provides a testing environment for application developers.
 
 ### 6. Use Policy
 You commit to lawful, ethical use of the Services, respecting others' rights and avoiding disruptive, damaging, or unauthorized activities.

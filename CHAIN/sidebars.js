@@ -5,7 +5,7 @@ const sidebars = {
   tutorialSidebar: [
     "intro",
 
-    { type: "doc", id: "connect-chain" },
+    { type: "doc", id: "using-chain" },
     {
       type: "category",
       label: "Development",

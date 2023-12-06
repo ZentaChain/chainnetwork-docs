@@ -75,6 +75,4 @@ To add CHAIN as a custom network to MetaMask:
 
 You should now be able to connect to the CHAIN by selecting it from the network selection dropdown menu.
 
-
 ---
-

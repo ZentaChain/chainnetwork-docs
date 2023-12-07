@@ -1,1 +1,1 @@
-# FAQ Hub
+# Frequently Asked Questions

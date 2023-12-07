@@ -29,7 +29,6 @@ const sidebars = {
             // "tools/bridges-mainnet",
             "tools/bridge-testnet",
             "tools/bridge-mainnet",
-            "tools/bridge-faq",
           ],
         },
         "tools/faucets",

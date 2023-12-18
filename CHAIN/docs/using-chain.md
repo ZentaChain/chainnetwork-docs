@@ -48,9 +48,6 @@ Follow these simple steps to add the CHAIN Sepolia testnet as a custom network i
 
 Now, you can select CHAIN Sepolia from the network dropdown menu to connect to the testnet.
 
-
-Chain Network can be added as a custom network to any EVM-compatible wallet (i.e. [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)).
-
 <!-- 
 ### CHAIN MetaMask (Mainnet)
 

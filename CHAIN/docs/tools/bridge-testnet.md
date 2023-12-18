@@ -1,2 +1,2 @@
-# Testnet Sepolia
+# Testnet
 

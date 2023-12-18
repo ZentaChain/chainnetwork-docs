@@ -4,8 +4,7 @@ sidebar_position: 1
 slug: /using-chain
 ---
 
-# Connect to CHAIN
-
+# Chain Networks
 <!-----
 
 ## Coinbase Wallet
@@ -23,9 +22,9 @@ Your active network should now be switched to CHAIN.
 
 ----->
 
-## Testnet
+## Connecting Testnet
 
-<!-- The CHAIN Sepolia can be added as a custom network to any EVM-compatible wallet (i.e. [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)).
+The Chain Network on Sepolia can be added as a custom network to any EVM-compatible wallet (i.e. [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)).
 
 ### CHAIN Sepolia MetaMask (Testnet)
 
@@ -35,14 +34,14 @@ Follow these simple steps to add the CHAIN Sepolia testnet as a custom network i
 2. **Access Network Selection**: Click on the network dropdown button at the top of the extension.
 3. **Add Network**: Select the **Add Network** option.
 4. **Manual Network Addition**: Choose **Add a network manually**.
-5. **Enter Network Details**: In the **Add a network manually** dialog, enter the following information for CHAIN Sepolia:
+5. **Enter Network Details**: In the **Add a network manually** dialog, enter the following information for Chain network Sepolia:
 
    | Name            | Value                                                                 |
    |:----------------|:----------------------------------------------------------------------|
-   | Network Name    | CHAIN Sepolia                                                         |
-   | RPC Endpoint    | [https://sepolia.zentachain.io](https://sepolia.zentachain.io)        |
+   | Network Name    | Chain Network (Sepolia)                                                         |
+   | RPC Endpoint    | [https://rpc-sepolia.zentachain.io](https://rpc-sepolia.zentachain.io)        |
    | Chain ID        | `chain_id`                                                       |
-   | Currency Symbol | ETH                                                                   |
+   | Currency Symbol | Ether (ETH)                                                                   |
    | Block Explorer  | [https://sepolia-explorer.zentachain.io/](https://sepolia-explorer.zentachain.io) |
 
 6. **Save Network**: Click the **Save** button to add CHAIN Sepolia as a network.
@@ -50,8 +49,9 @@ Follow these simple steps to add the CHAIN Sepolia testnet as a custom network i
 Now, you can select CHAIN Sepolia from the network dropdown menu to connect to the testnet.
 
 
-CHAIN can be added as a custom network to any EVM-compatible wallet (i.e. [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)).
+Chain Network can be added as a custom network to any EVM-compatible wallet (i.e. [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)).
 
+<!-- 
 ### CHAIN MetaMask (Mainnet)
 
 To add CHAIN as a custom network to MetaMask:

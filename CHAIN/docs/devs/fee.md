@@ -5,24 +5,37 @@ slug: /fee
 
 # Fees on CHAIN
 
-### L2 Execution Fee
-- **Calculation**: `transaction_gas_price = l2_base_fee + l2_priority_fee` and `l2_execution_fee = transaction_gas_price * l2_gas_used`.
-- **Similarity to Ethereum**: Lower gas prices compared to Ethereum's gas fee system.
+## L2 Execution Fee
+- **Calculation Method**:
+  - Formula: `transaction_gas_price = l2_base_fee + l2_priority_fee`
+  - Execution Fee: `l2_execution_fee = transaction_gas_price * l2_gas_used`.
+- **Comparison with Ethereum**: 
+  - Notably lower gas prices than Ethereum's fee system.
 
-### L1 Data/Security Fee
-- **Integration with Ethereum**: Covers the cost of publishing transactions on Ethereum, typically higher due to Ethereum's gas costs.
-- **Base Fee Volatility**: Can vary significantly in a short time, influenced by network congestion and previous block's base fee.
-- **Priority Fee**: Directly paid by the user, recommended to be as low as possible.
+## L1 Data/Security Fee
+- **Integration Aspect**:
+  - Purpose: Covers costs for publishing transactions on Ethereum.
+  - Note: Typically higher due to Ethereum's gas costs.
+- **Base Fee Volatility**:
+  - Subject to significant short-term fluctuations.
+  - Influenced by network congestion and previous block's base fee.
+- **Priority Fee**:
+  - Paid directly by the user.
+  - Recommendation: Keep as low as possible.
 
-### Fee Calculation and Estimation
-- **L2 Fee**: Estimated by gas price times gas limit.
-- **L1 Fee**: Calculated using tools like `GasPriceOracle`.
-- **Total Fee**: Combination of L2 execution and L1 data fees.
+## Fee Calculation and Estimation
+- **L2 Fee**:
+  - Estimation Method: Gas price multiplied by gas limit.
+- **L1 Fee**:
+  - Calculation Tool: Use of tools like `GasPriceOracle`.
+- **Total Fee**:
+  - Combination: Sum of L2 execution and L1 data fees.
 
-### Sending Transactions and Software Development Considerations
-- **Process**: Similar to Ethereum, but requires accounting for both L2 and L1 fees.
-- **Displaying Fees to Users**: Important to show the sum of both L2 and L1 fees for accurate cost estimation.
-- **Error Prevention**: Manage potential insufficient funds errors by accounting for both fee types.
+## Transactions and Software
+- **Transaction Process**:
+  - Similar to Ethereum, with the addition of L2 and L1 fees.
+- **Displaying Fees to Users**:
+  - Importance: Show the total of both L2 and L1 fees for accurate cost estimation.
+- **Error Prevention**:
+  - Strategy: Manage potential insufficient funds errors by accounting for both types of fees.
 
-### Additional Information
-For detailed insights and calculations, visit the [Op Developer Documentation](https://community.optimism.io/docs/developers/build/transaction-fees/).

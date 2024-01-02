@@ -5,7 +5,7 @@ const sidebars = {
   tutorialSidebar: [
     "intro",
 
-    { type: "doc", id: "using-chain" },
+    { type: "doc", id: "chain-networks" },
     {
       type: "category",
       label: "Development",
@@ -25,11 +25,7 @@ const sidebars = {
           label: "Bridges",
           collapsible: true,
           collapsed: true,
-          items: [
-            // "tools/bridges-mainnet",
-            "tools/bridge-testnet",
-            "tools/bridge-mainnet",
-          ],
+          items: ["tools/bridge-testnet", "tools/bridge-mainnet"],
         },
         "tools/faucets",
       ],
@@ -43,7 +39,11 @@ const sidebars = {
     // { type: "doc", id: "cookie-policy" },
     // { type: "doc", id: "disclaimer" },
     // { type: "doc", id: "contact" },
-    // { type: "doc", id: "imprint" },
+    {
+      type: "link",
+      label: "Status",
+      href: "https://zentachain.instatus.com/",
+    },
     { type: "doc", id: "faq" },
   ],
 };

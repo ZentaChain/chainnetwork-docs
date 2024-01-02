@@ -1,5 +1,5 @@
 ---
-title: Chain Network
+title: About Chain
 sidebar_position: 2
 ---
 

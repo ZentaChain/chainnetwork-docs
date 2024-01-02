@@ -4,7 +4,7 @@ slug: /terms
 ---
 
 # Terms of Service
-Last Updated: Nov 22, 2023
+Last updated: Jän 2, 2023
 
 Welcome to Zentachain, a pioneering Layer 2 optimistic rollup on the Ethereum blockchain, proudly based in Berlin, Germany. These Terms of Service ("Terms") form a binding legal agreement between you and Zentachain GmbH ("Zentachain," "us," or "we"), overseeing your use of our Sequencer, Bridge Interface, and Testnet ("Services"). By utilizing our Services, you consent to these Terms. Should you disagree with these Terms, please refrain from using the Services.
 

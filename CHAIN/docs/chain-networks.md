@@ -1,7 +1,7 @@
 ---
-title: Use CHAIN
+title: Chain Networks
 sidebar_position: 1
-slug: /using-chain
+slug: /chain-networks
 ---
 
 # Chain Networks
@@ -22,10 +22,6 @@ Your active network should now be switched to CHAIN.
 
 ----->
 
-## Connecting Testnet
-
-The Chain Network on Sepolia can be added as a custom network to any EVM-compatible wallet (i.e. [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)).
-
 ### CHAIN Sepolia MetaMask (Testnet)
 
 Follow these simple steps to add the CHAIN Sepolia testnet as a custom network in MetaMask:
@@ -40,7 +36,7 @@ Follow these simple steps to add the CHAIN Sepolia testnet as a custom network i
    |:----------------|:----------------------------------------------------------------------|
    | Network Name    | Chain Network (Sepolia)                                                         |
    | RPC Endpoint    | [https://rpc-sepolia.zentachain.io](https://rpc-sepolia.zentachain.io)        |
-   | Chain ID        | `chain_id`                                                       |
+   | Chain ID        | `1432`                                                       |
    | Currency Symbol | Ether (ETH)                                                                   |
    | Block Explorer  | [https://sepolia-explorer.zentachain.io/](https://sepolia-explorer.zentachain.io) |
 

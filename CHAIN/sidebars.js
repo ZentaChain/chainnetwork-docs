@@ -9,7 +9,7 @@ const sidebars = {
     {
       type: "category",
       label: "Development",
-      items: ["devs/fee"],
+      items: ["devs/networks", "devs/fee"],
       collapsible: false,
       collapsed: false,
     },

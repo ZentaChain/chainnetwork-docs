@@ -14,7 +14,7 @@ slug: /networks
 | Currency Symbol | Ether (ETH)                                                             |
 | Block Explorer  | [https://sepolia-explorer.zentachain.io/](https://sepolia-explorer.zentachain.io) |
 
-## Chain Mainnet
+## Chain Mainnet Soon
 
 | Name            | Value                                                                   |
 |:----------------|:------------------------------------------------------------------------|
@@ -22,7 +22,7 @@ slug: /networks
 | Description     | The primary, live network.                         |
 | RPC Endpoint    | [Mainnet RPC](#)                                                    |
 | Chain ID        | -                                                |
-| Currency Symbol | Mainnet Currency Symbol (e.g., CHN)                                     |
+| Currency Symbol | Mainnet Currency Symbol ()                                     |
 | Block Explorer  | [Mainnet Block Explorer URL](#)                                         |
 
 ---

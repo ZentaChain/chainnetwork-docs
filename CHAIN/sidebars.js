@@ -4,15 +4,39 @@
 const sidebars = {
   tutorialSidebar: [
     "intro",
-
     { type: "doc", id: "chain-networks" },
     {
       type: "category",
       label: "Development",
-      items: ["devs/networks", "devs/fee"],
-      collapsible: false,
+      items: [
+        "devs/networks",
+        "devs/fee",
+        {
+          type: "category",
+          label: "Guides",
+          items: [
+            {
+              type: "category",
+              label: "Deploying a Smart Contract",
+              items: [
+                "guides/deploy-smart-contracts",
+                "guides/deploy-with-foundry",
+                // "guides/deploy-with-remix",
+                // "guides/deploy-with-tenderly",
+                // "guides/deploy-with-thirdweb"
+              ],
+              collapsible: true,
+              collapsed: false,
+            },
+          ],
+          collapsible: true,
+          collapsed: true,
+        },
+      ],
+      collapsible: true,
       collapsed: false,
     },
+
     {
       type: "category",
       label: "Tools",

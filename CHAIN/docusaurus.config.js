@@ -2,14 +2,14 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Zentachain Devs",
+  title: "Chain Network",
   tagline: "The Scaled Telecom Blockchain",
   favicon: "img/favicon.ico",
-  url: "https://devs.zentachain.io",
+  url: "https://devs-chain.zentachain.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   baseUrl: "/",
   organizationName: "Zentachain GmbH",
-  projectName: "devs-zentachain",
+  projectName: "devs-chain",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   i18n: {

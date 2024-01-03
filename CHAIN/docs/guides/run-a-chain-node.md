@@ -1,5 +1,5 @@
 ---
-title: Running a Chain Node
+title: Running Chain Node
 slug: /guides/run-a-chain-node
 description: A guide for setting up and running a a single Chain Node.
 keywords:

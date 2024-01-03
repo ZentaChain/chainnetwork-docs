@@ -25,7 +25,7 @@ const sidebars = {
                 "guides/deploy-with-thirdweb",
                 // "guides/deploy-with-tenderly",
               ],
-              collapsible: true,
+              collapsible: false,
               collapsed: false,
             },
             "guides/run-a-chain-node",

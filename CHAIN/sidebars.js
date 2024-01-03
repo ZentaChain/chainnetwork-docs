@@ -28,6 +28,7 @@ const sidebars = {
               collapsible: true,
               collapsed: false,
             },
+            "guides/run-a-chain-node",
           ],
           collapsible: true,
           collapsed: true,

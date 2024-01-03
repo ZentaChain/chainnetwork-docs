@@ -1,5 +1,5 @@
 ---
-title: Explorers
+title: Block Explorers
 slug: /tools/block-explorers
 ---
 

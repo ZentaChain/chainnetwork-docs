@@ -1,5 +1,5 @@
 ---
-title: Networks Overview
+title: Networks
 slug: /networks
 ---
 

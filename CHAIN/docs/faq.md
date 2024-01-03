@@ -1,1 +1,4 @@
-# FAQ
+---
+title: FAQ
+slug: /faq
+---

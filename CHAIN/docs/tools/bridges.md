@@ -1,1 +1,4 @@
-# Bridges
+---
+title: Bridges
+slug: /tools/bridges
+---

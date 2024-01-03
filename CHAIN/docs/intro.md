@@ -1,5 +1,6 @@
 ---
 title: About Chain
+slug: /intro
 sidebar_position: 2
 ---
 

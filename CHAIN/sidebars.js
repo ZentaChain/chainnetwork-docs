@@ -21,9 +21,9 @@ const sidebars = {
               items: [
                 "guides/deploy-smart-contracts",
                 "guides/deploy-with-foundry",
-                // "guides/deploy-with-remix",
+                "guides/deploy-with-remix",
+                "guides/deploy-with-thirdweb",
                 // "guides/deploy-with-tenderly",
-                // "guides/deploy-with-thirdweb"
               ],
               collapsible: true,
               collapsed: false,

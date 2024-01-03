@@ -22,7 +22,7 @@ const sidebars = {
         "tools/blockexplorer",
         {
           type: "category",
-          label: "Bridges",
+          label: "Bridges Chain",
           collapsible: false,
           collapsed: true,
           items: ["tools/bridge-testnet", "tools/bridge-mainnet"],

@@ -3,12 +3,13 @@ title: Block Explorers
 slug: /tools/block-explorers
 ---
 
-# CHAIN network Explorers
+# Chain Explorers
 
-Explore the vibrant world of CHAIN with a selection of advanced blockchain explorers tailored to enhance your experience.
+Explore the vibrant world of Chain with a selection of advanced blockchain explorers tailored to enhance your experience.
 
 ## Blockscout
-Blockscout offers a rich suite of features for in-depth analysis of CHAIN's blockchain:
+
+Blockscout offers a rich suite of features for in-depth analysis of Chain Network blockchain:
 - Interactive smart contract source code verification and interaction.
 - Detailed transaction analysis and insights.
 - Dedicated [Sepolia Testnet Explorer](https://explorer-sepolia.zentachain.io/) for CHAIN.
@@ -18,10 +19,10 @@ Blockscout offers a rich suite of features for in-depth analysis of CHAIN's bloc
 - Efficient search for transactions, addresses, and tokens.
 - Smart contract interaction and verification tools.
 - Detailed view of cross-layer transactions.
-- Explore the [CHAIN Sepolia Testnet](https://sepolia.chainscan.io/).
+- Explore the [Chain Sepolia Testnet](https://sepolia.chainscan.io/).
 
 ## L2scan
-Dive into layer 2 with [L2scan Explorer](https://chain.l2scan.co/), optimized for CHAIN and other layer 2 networks:
+Dive into layer 2 with [L2scan Explorer](https://chain.l2scan.co/), optimized for Chain and other layer 2 networks:
 - Track transactions and account balances easily.
 - Monitor network activity in real-time.
 
@@ -35,4 +36,4 @@ Dive into layer 2 with [L2scan Explorer](https://chain.l2scan.co/), optimized fo
 Elevate your development with [Tenderly Explorer](https://tenderly.co/):
 - Deep dive into transaction details.
 - Debug and optimize smart contracts effectively.
-- Supports CHAIN and CHAIN Goerli networks for comprehensive contract analysis. -->
+- Supports Chain and Chain Goerli networks for comprehensive contract analysis. -->

@@ -3,7 +3,10 @@ title: About Chain
 sidebar_position: 2
 ---
 
-# About
+# About Chain Network
+
+![Chain Network Banner](../static/img/Banner.jpg)
+
 
 Chain Network is an innovative Layer 2 solution, tailor-made to bring a transformative change to the Telecom industry. Built on the solid foundation of the OP stack, Chain Network is dedicated to establishing a decentralized, secure, and high-reliability network environment, specifically catering to the Telecom sector.
 

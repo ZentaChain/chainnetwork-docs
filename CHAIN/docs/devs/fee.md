@@ -3,39 +3,36 @@ title: Fee
 slug: /fee
 ---
 
-# Fees on CHAIN
+# Fees on Chain Network
 
-## L2 Execution Fee
-- **Calculation Method**:
-  - Formula: `transaction_gas_price = l2_base_fee + l2_priority_fee`
-  - Execution Fee: `l2_execution_fee = transaction_gas_price * l2_gas_used`.
-- **Comparison with Ethereum**: 
-  - Notably lower gas prices than Ethereum's fee system.
+Chain Network employs a dual-layer fee structure to optimize both execution and security.
 
-## L1 Data/Security Fee
-- **Integration Aspect**:
-  - Purpose: Covers costs for publishing transactions on Ethereum.
-  - Note: Typically higher due to Ethereum's gas costs.
-- **Base Fee Volatility**:
-  - Subject to significant short-term fluctuations.
-  - Influenced by network congestion and previous block's base fee.
-- **Priority Fee**:
-  - Paid directly by the user.
-  - Recommendation: Keep as low as possible.
+## Layer 2 (L2) Execution Fee
+- **Formula for Calculation**:
+  - `transaction_gas_price = l2_base_fee + l2_priority_fee`
+  - `l2_execution_fee = transaction_gas_price * l2_gas_used`
+- **Ethereum Comparison**:
+  - Chain Network's L2 execution fees are significantly lower compared to Ethereum's fee structure, offering a more cost-efficient alternative.
 
-## Fee Calculation and Estimation
-- **L2 Fee**:
-  - Estimation Method: Gas price multiplied by gas limit.
-- **L1 Fee**:
-  - Calculation Tool: Use of tools like `GasPriceOracle`.
-- **Total Fee**:
-  - Combination: Sum of L2 execution and L1 data fees.
+## Layer 1 (L1) Data/Security Fee
+- **Purpose**:
+  - These fees cover the costs associated with publishing transactions on the Ethereum blockchain.
+- **Factors Influencing the Fee**:
+  - **Base Fee**: Can fluctuate considerably in the short term, influenced by network congestion and the base fee of the preceding block.
+  - **Priority Fee**: A user-set fee that should be minimized to reduce overall cost.
 
-## Transactions and Software
-- **Transaction Process**:
-  - Similar to Ethereum, with the addition of L2 and L1 fees.
-- **Displaying Fees to Users**:
-  - Importance: Show the total of both L2 and L1 fees for accurate cost estimation.
-- **Error Prevention**:
-  - Strategy: Manage potential insufficient funds errors by accounting for both types of fees.
+## Accurate Fee Calculation and Estimation
+- **For Layer 2 (L2)**:
+  - Estimate using the formula: `Gas price × Gas limit`.
+- **For Layer 1 (L1)**:
+  - Calculate using tools like `GasPriceOracle`.
+- **Total Fee Computation**:
+  - The total cost of a transaction is the sum of both L2 execution fees and L1 data/security fees.
 
+## Transaction Handling and User Interface
+- **Processing Transactions**:
+  - The Chain Network processes transactions similarly to Ethereum but with additional considerations for both L2 and L1 fees.
+- **Displaying Fees**:
+  - It's crucial to present users with the combined total of L2 and L1 fees for accurate cost estimation.
+- **Error Management**:
+  - Anticipate and manage potential 'insufficient funds' errors by considering the total fee impact, encompassing both L2 and L1 charges.

@@ -61,8 +61,9 @@ const config = {
           {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
-            position: "left",
-            label: "Documentation",
+            position: "right",
+            label: "Homepage",
+            href: "https://zentachain.io",
           },
           {
             type: "dropdown",

@@ -43,7 +43,7 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 }
 
 .feature {
-  background-color: var(--ifm-background-surface-color);
+  background-color: 'var(--ifm-background-surface-color)';
 }
 
 /* overriding white text as the alert high a light background */

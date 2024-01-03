@@ -29,6 +29,7 @@ const sidebars = {
         },
         "tools/faucets",
         "tools/node-providers",
+        "tools/onramps",
       ],
     },
     {

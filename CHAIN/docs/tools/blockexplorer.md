@@ -5,14 +5,15 @@ slug: /tools/block-explorers
 
 # Chain Explorers
 
-Explore the vibrant world of Chain with a selection of advanced blockchain explorers tailored to enhance your experience.
-
 ## Blockscout
-
+---
 Blockscout offers a rich suite of features for in-depth analysis of Chain Network blockchain:
-- Interactive smart contract source code verification and interaction.
-- Detailed transaction analysis and insights.
-- Dedicated [Sepolia Testnet Explorer](https://explorer-sepolia.zentachain.io/) for CHAIN.
+
+- **Interactive Features**: Smart contract source code verification and interaction.
+- **Transaction Analysis**: Detailed insights into transactions.
+- **Testnet Explorer**: [Sepolia Testnet Explorer](https://explorer-sepolia.zentachain.io/) for CHAIN.
+
+---
 
 <!-- ## Etherscan
 [Etherscan for CHAIN](https://chainscan.io/) brings its renowned functionality to CHAIN:

@@ -41,12 +41,12 @@ const sidebars = {
     { type: "doc", id: "privacy-policy" },
     // { type: "doc", id: "cookie-policy" },
     // { type: "doc", id: "disclaimer" },
+    { type: "doc", id: "faq" },
     {
       type: "link",
       label: "Status",
       href: "https://zentachain.instatus.com/",
     },
-    { type: "doc", id: "faq" },
   ],
 };
 

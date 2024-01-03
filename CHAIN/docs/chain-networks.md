@@ -24,7 +24,7 @@ To use CHAIN with Coinbase Wallet:
    |:----------------|:----------------------------------------------------------------------|
    | Network Name    | Chain Network (Sepolia)                                                         |
    | RPC Endpoint    | [https://rpc-sepolia.zentachain.io](https://rpc-sepolia.zentachain.io)        |
-   | Chain ID        | `1432`                                                       |
+   | Chain ID        | 1432                                                       |
    | Currency Symbol | Ether (ETH)                                                                   |
    | Block Explorer  | [https://sepolia-explorer.zentachain.io/](https://sepolia-explorer.zentachain.io) |
 
@@ -51,7 +51,7 @@ Follow these simple steps to add the CHAIN Sepolia testnet as a custom network i
    |:----------------|:----------------------------------------------------------------------|
    | Network Name    | Chain Network (Sepolia)                                                         |
    | RPC Endpoint    | [https://rpc-sepolia.zentachain.io](https://rpc-sepolia.zentachain.io)        |
-   | Chain ID        | `1432`                                                       |
+   | Chain ID        | 1432                                                       |
    | Currency Symbol | Ether (ETH)                                                                   |
    | Block Explorer  | [https://sepolia-explorer.zentachain.io/](https://sepolia-explorer.zentachain.io) |
 

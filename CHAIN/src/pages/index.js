@@ -6,6 +6,24 @@ import Heading from "@theme/Heading";
 import styles from "./index.module.css";
 import React, { useEffect } from "react";
 
+function loadGoogleAnalytics() {
+  // Creating the script tag for Google Analytics
+  const script = document.createElement("script");
+  script.src = "https://www.googletagmanager.com/gtag/js?id=UA-123666404-1";
+  script.async = true;
+  document.head.appendChild(script);
+
+  // Inline script content
+  const inlineScript = document.createElement("script");
+  inlineScript.innerHTML = `
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-123666404-1');
+    `;
+  document.head.appendChild(inlineScript);
+}
+
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
@@ -22,9 +40,12 @@ function HomepageHeader() {
 
 export default function Home() {
   const { siteConfig } = useDocusaurusContext();
+
   useEffect(() => {
+    loadGoogleAnalytics();
     window.location.href = "/docs/intro";
   }, []);
+  
   return (
     <Layout
       title={`${siteConfig.title}`}

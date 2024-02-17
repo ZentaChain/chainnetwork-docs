@@ -3,7 +3,7 @@
  * and scoped locally.
  */
 
-/* .heroBanner {
+.heroBanner {
   padding: 4rem 0;
   text-align: center;
   position: relative;
@@ -14,7 +14,7 @@
   .heroBanner {
     padding: 2rem;
   }
-} */
+}
 
 .buttons {
   display: flex;

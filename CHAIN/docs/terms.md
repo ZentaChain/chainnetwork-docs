@@ -4,86 +4,84 @@ slug: /terms
 ---
 
 # Terms of Service
-Last updated: Jän 2, 2023
+Last updated: Feb 17, 2024
+
+---
 
 Welcome to Zentachain, a pioneering Layer 2 optimistic rollup on the Ethereum blockchain, proudly based in Berlin, Germany. These Terms of Service ("Terms") form a binding legal agreement between you and Zentachain GmbH ("Zentachain," "us," or "we"), overseeing your use of our Sequencer, Bridge Interface, and Testnet ("Services"). By utilizing our Services, you consent to these Terms. Should you disagree with these Terms, please refrain from using the Services.
 
 **Key Agreement**: Accepting these Terms means opting for binding arbitration or small claims court for dispute resolution, rather than traditional court processes, including waiving jury trial rights.
 
-## Terms and Conditions
-
-### 1. Overview of Zentachain
+### Overview
 Zentachain operates as an open-source, optimistic rollup on the Ethereum blockchain, offering smart contracts for asset bridging ("Bridging Smart Contracts") between Ethereum and Zentachain. It's important to note that these contracts and Zentachain itself are not part of the Services and are governed by decentralized governance, independent of Zentachain GmbH. Usage is at your own risk.
 
-### 2. Eligibility Criteria
-Service usage requires legal eligibility to form binding contracts with Zentachain in your jurisdiction, subject to applicable laws and sanctions.
+### Eligibility
+You must be legally capable of entering into binding contracts in your jurisdiction to use our Services, adhering to all applicable laws and sanctions.
 
-### 3. Intellectual Property Rights
-Zentachain holds all intellectual property rights to the Services. We grant you a limited, non-sublicensable, non-transferable, and exclusive license to use the Services under these Terms.
+### Intellectual Property
+All intellectual property rights related to the Services are owned by Zentachain. We provide a limited, non-sublicensable, non-transferable, exclusive license to access and use the Services according to these Terms.
 
-### 4. Service Accessibility
-Access to the Services necessitates a compatible cryptocurrency wallet ("Wallet"). We are not liable for any Wallet-related issues.
+### Access Requirements
+A compatible cryptocurrency wallet is required for Service access. Zentachain is not responsible for Wallet issues.
 
-### 5. Service Offerings
-Our Services include:
-- **The Sequencer:** Records and reports Zentachain transactions.
-- **Bridge Interface:** Facilitates blockchain message broadcasting.
-- **CHAIN network Testnet:** Provides a testing environment for application developers.
+### Services Provided
+- **The Sequencer:** Manages and logs Zentachain transactions.
+- **Bridge Interface:** Supports blockchain message communication.
+- **CHAIN Network Testnet:** Offers a development testing ground.
 
-### 6. Use Policy
-You commit to lawful, ethical use of the Services, respecting others' rights and avoiding disruptive, damaging, or unauthorized activities.
+### Usage Policy
+You agree to use the Services responsibly, legally, and ethically, ensuring no harm, disruption, or unauthorized activities.
 
-### 7. Risk Acceptance
-You acknowledge and accept the inherent risks of cryptographic and blockchain technologies, including data loss, hacking, and value fluctuations, assuming full responsibility for these risks.
+### Risk Acknowledgement
+You recognize and accept the risks associated with cryptographic and blockchain technologies, including but not limited to data loss, hacking, and value fluctuations, and assume full responsibility for these risks.
 
-### 8. User Interactions
-You are solely responsible for interactions with other users, with Zentachain not mediating disputes.
+### User Interactions
+Interactions with other users are your responsibility; Zentachain does not mediate disputes.
 
-### 9. Feedback Policy
-Your feedback becomes Zentachain's property, usable without obligation to you.
+### Feedback
+Any feedback provided becomes the property of Zentachain, which can use it freely.
 
-### 10. Privacy Commitment
-Review our [Privacy Policy](http://docs.zentachain.org/privacy-policy) to understand data collection, usage, and protection.
+### Privacy
+Our [Privacy Policy](https://devs-chain.zentachain.io/docs/privacy-policy) details our data practices.
 
-### 11. Third-Party Services
-We are not responsible for third-party services accessible through our Services, subject to their terms and privacy policies.
+### Third-Party Services
+Zentachain is not liable for any third-party services linked through our Services, which are governed by their own terms and policies.
 
-### 12. Additional Services
-Any additional Zentachain services come with specific terms, which you agree to by using them.
+### Additional Services
+Use of any additional Zentachain services is subject to specific terms, which are accepted upon use.
 
-### 13. Indemnification
-You agree to indemnify Zentachain against claims arising from your use of the Services or Terms violations.
+### Indemnification
+You agree to indemnify Zentachain against any claims related to your use of the Services or breach of these Terms.
 
-### 14. No Warranty Provision
-Services are provided "as is," without warranties of any kind.
+### Disclaimer of Warranties
+The Services are provided "as is," with no warranties expressed or implied.
 
-### 15. Liability Limitation
-Zentachain's liability is strictly limited under these Terms.
+### Limitation of Liability
+Our liability is limited as stated in these Terms.
 
-### 16. Terms Modification
-We reserve the right to modify these Terms, with continued use signifying acceptance.
+### Amendments to Terms
+Zentachain reserves the right to modify these Terms, with continued use indicating acceptance.
 
-### 17. Electronic Communications Consent
-You agree to electronic communications as legally binding.
+### Electronic Communication
+You consent to receive electronic communications from us, acknowledging them as legally binding.
 
-### 18. Entire Agreement
-These Terms constitute the full agreement between you and Zentachain regarding the Services.
+### Entire Agreement
+These Terms represent the entire agreement between you and Zentachain regarding the Services.
 
-### 19. Rights Assignment
-Zentachain may assign these Terms without restriction; your assignment requires our consent.
+### Assignment
+Zentachain may assign these Terms freely; your assignment requires our approval.
 
-### 20. Severability
-Invalid or unenforceable provisions will be limited or eliminated; others remain effective.
+### Severability
+If any provision is found invalid or unenforceable, it will be modified to the minimum extent necessary, leaving the remainder in full effect.
 
-### 21. Termination Rights
-Zentachain may terminate your access at any time, with certain Terms surviving termination.
+### Termination
+Zentachain can terminate your access to the Services at any time, with certain provisions surviving termination.
 
-### 22. Governing Law
-These Terms are governed by German law.
+### Governing Law
+These Terms are governed by German law, without regard to conflict of law principles.
 
-### 23. Force Majeure
-Zentachain is not liable for performance failures beyond its control.
+### Force Majeure
+Zentachain is not responsible for failures due to circumstances beyond our control.
 
-### 24. Contact Information
-For any inquiries, support, or questions regarding our Services, please reach out to us via our contact page at [zentachain.io/contact](https://zentachain.io/contact).
-
+### Contact Us
+For inquiries or support, contact us via [zentachain.io/contact](https://zentachain.io/contact).

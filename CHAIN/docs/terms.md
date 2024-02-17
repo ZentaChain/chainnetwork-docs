@@ -85,3 +85,5 @@ Zentachain is not responsible for failures due to circumstances beyond our contr
 
 ### Contact Us
 For inquiries or support, contact us via [zentachain.io/contact](https://zentachain.io/contact).
+
+---

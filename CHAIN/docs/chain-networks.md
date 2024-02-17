@@ -4,10 +4,10 @@ sidebar_position: 1
 slug: /chain-networks
 ---
 
-# Using Chain Network with wallets
+# Chain Network with wallets
 ---
 
-## Coinbase Wallet (Testnet)
+### Coinbase Wallet (Testnet)
 
 The [Coinbase Wallet](https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad?hl=en).
 
@@ -36,7 +36,7 @@ Your active network should now be switched to Chain Network.
 
 ---
 
-## Metamask (Testnet)
+### Metamask (Testnet)
 
 Follow these simple steps to add the CHAIN Sepolia testnet as a custom network in MetaMask:
 

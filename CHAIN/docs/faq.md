@@ -1,5 +1,5 @@
 ---
-title: "Frequently Asked Questions: CHAIN Bridge"
+title: "Frequently Asked Questions"
 slug: "/faq"
 ---
 

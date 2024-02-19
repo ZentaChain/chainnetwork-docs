@@ -127,6 +127,6 @@ async function getValue() {
 
 :::info
 
-For more information on deploying contracts on Chain, see [Deploying a Smart Contract](/guides/deploy-smart-contracts).
+For more information on deploying contracts on Chain, see [Deploying a Smart Contract](/docs/guides/deploy-smart-contracts).
 
 :::

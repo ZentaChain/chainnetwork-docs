@@ -257,7 +257,7 @@ Finally, run:
 npx hardhat run scripts/deploy.ts --network chain-sepolia
 ```
 
-The contract will be deployed on the Chain Sepolia test network. You can view the deployment status and contract by using a [block explorer](/tools/block-explorers) and searching for the address returned by your deploy script. If you've deployed an exact copy of the ERC20 contract above, it will already be verified and you'll be able to read and write to the contract using the web interface.
+The contract will be deployed on the Chain Sepolia test network. You can view the deployment status and contract by using a [block explorer](/tools/blockexplorer) and searching for the address returned by your deploy script. If you've deployed an exact copy of the ERC20 contract above, it will already be verified and you'll be able to read and write to the contract using the web interface.
 
 :::info
 

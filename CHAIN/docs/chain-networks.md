@@ -6,6 +6,9 @@ slug: /chain-networks
 
 ---
 
+![Chain Network Banner](../static/img/Zentachain_Banner2.jpg)
+
+---
 ### Coinbase Wallet (Testnet)
 
 The [Coinbase Wallet](https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad?hl=en).

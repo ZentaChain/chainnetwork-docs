@@ -21,7 +21,7 @@ To access our Services, you must have the legal capacity to enter binding contra
 
 ### Intellectual
 
-Zentachain owns all intellectual property rights in the Services. We grant you a limited, non-sublicensable, non-transferable, exclusive license to use the Services in accordance with these Terms.
+Zentachain owns all intellectual property rights in the Services. We grant you a limited, non-sub-licensable, non-transferable, exclusive license to use the Services in accordance with these Terms.
 
 ### Access
 

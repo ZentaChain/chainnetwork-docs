@@ -8,7 +8,7 @@ sidebar_position: 2
 
 ---
 
-![Chain Network Banner](../static/img/Banner.jpg)
+![Chain Network Banner](../static/img/Zentachain_Banner.jpg)
 
 ---
 
@@ -18,7 +18,7 @@ At its core, Chain Network seeks to tackle the distinct challenges faced by the 
 
 Developers and users on the Chain Network can expect a more scalable environment, allowing for faster and more cost-effective solutions. This L2 in technology promises not only to meet the current demands of Telecom networking but also to set new benchmarks for the future.
 
-### Layer 2
+### Layer-2
 Chain Network elevates its capabilities as a Layer 2 solution, strategically layered atop the Ethereum blockchain. This architecture not only guarantees heightened security and scalability but also ensures a harmonious integration with prominent Layer 1 networks like Ethereum and Polygon. The result? Expedited transactions and reduced operational costs, making it a game-changer in blockchain technology.
 
 ### Telecom
@@ -34,5 +34,6 @@ Addressing the core challenge of network limitations, the Chain L2 Network intro
 
 The Chain Network offers a fertile ground for developers, providing a versatile and robust platform for building innovative Telecom and IoT applications. With its focus on scalability, efficiency, and integration with established Layer 1 networks, developers can leverage Chain Network to create solutions that are not only cutting-edge but also reliable and cost-effective. The open-source nature of the Optimism OP Stack further empowers developers, offering them the freedom to innovate, collaborate, and contribute to a rapidly evolving digital ecosystem. Chain Network is an opportunity for developers to be at the forefront of technological advancement in the Telecom and IoT sectors.
 
----
 <!-- ### IoT -->
+
+---

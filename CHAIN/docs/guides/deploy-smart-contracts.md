@@ -43,7 +43,7 @@ If you are using `nvm` to manage your node versions, you can just run `nvm insta
 
 To deploy a smart contract, you'll need a web3 wallet. **Coinbase Wallet** is a user-friendly option that integrates seamlessly with numerous blockchain applications. Create your wallet by installing the Coinbase Wallet browser extension, enabling direct interaction with decentralized applications (DApps) from your browser.
 
-- **Download**: [Coinbase Wallet Browser Extension](https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad?hl=en)
+- **Download**: [Coinbase Wallet Extension](https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad?hl=en)
 
 ### MetaMask Wallet
 
@@ -241,8 +241,6 @@ async function main() {
   console.log("MyToken Contract Deployed at " + erc.target);
 }
 
-// We recommend this pattern to be able to use async/await everywhere
-// and properly handle errors.
 main().catch((error) => {
   console.error(error);
   process.exitCode = 1;
@@ -257,7 +255,7 @@ Finally, run:
 npx hardhat run scripts/deploy.ts --network chain-sepolia
 ```
 
-The contract will be deployed on the Chain Sepolia test network. You can view the deployment status and contract by using a [block explorer](/tools/blockexplorer) and searching for the address returned by your deploy script. If you've deployed an exact copy of the ERC20 contract above, it will already be verified and you'll be able to read and write to the contract using the web interface.
+The contract will be deployed on the Chain Sepolia test network. You can view the deployment status and contract by using a [block explorer](/docs/tools/block-explorers) and searching for the address returned by your deploy script. If you've deployed an exact copy of the ERC20 contract above, it will already be verified and you'll be able to read and write to the contract using the web interface.
 
 :::info
 

@@ -6,7 +6,7 @@ description: Policy explaining uses cookies on our website.
 
 Last Updated: Feb 17, 2024
 
-This Cookie Policy outlines how Zentachain GmbH ("we", "us", and "our") uses cookies and similar technologies on our website, [Zentachain.io](https://devs-chain.zentachain.io/) (the "Site"), and through our services, tools, and applications (collectively, the "Services"). It describes these technologies, their purpose, and your rights regarding our use of them.
+This Cookie Policy outlines how Zentachain GmbH ("we", "us", and "our") uses cookies and similar technologies on our website, [Dev's Zentachain](https://devs-chain.zentachain.io/) (the "Site"), and through our services, tools, and applications (collectively, the "Services"). It describes these technologies, their purpose, and your rights regarding our use of them.
 
 Where cookies and similar technologies collect personal data, our [Privacy Policy](https://devs-chain.zentachain.io/privacy-policy) applies in conjunction with this Cookie Policy.
 

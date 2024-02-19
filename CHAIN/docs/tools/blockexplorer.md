@@ -13,6 +13,10 @@ slug: /tools/block-explorers
 | **Transaction Analysis** | Gain detailed insights into blockchain transactions.                                                |
 | **Testnet Explorer**    | Access the [Sepolia Testnet Explorer](https://explorer-sepolia.zentachain.io/) for the Chain Network. |
 
+<!-- ### Arkham
+
+Arkham is a crypto intelligence platform that systematically analyzes blockchain transactions, showing users the people and companies behind blockchain activity, with a suite of advanced tools for analyzing their activity. -->
+
 
 <!-- ## Etherscan
 [Etherscan for CHAIN](https://chainscan.io/) brings its renowned functionality to CHAIN:

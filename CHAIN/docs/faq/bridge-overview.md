@@ -1,9 +1,11 @@
 ---
-title: "Frequently Asked Questions"
-slug: "/faq"
+title: "FAQ Bridge"
+slug: "/bridge-overview"
 ---
 
-### What is the CHAIN Bridge?
+---
+
+### What is the Chain Bridge?
 
 The Chain Bridge is a decentralized application (dApp) that enables the seamless transfer of assets between Ethereum's Layer 1 (L1) and Layer 2 (L2) networks within the CHAIN ecosystem.
 
@@ -50,3 +52,5 @@ The Chain Bridge is designed with all users in mind, ensuring ease of use even f
 ### Canceling Withdrawals
 
 Withdrawals, once initiated, are final and cannot be canceled. It's crucial to review transactions carefully before confirmation.
+
+---

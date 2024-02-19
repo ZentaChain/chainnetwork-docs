@@ -3,7 +3,7 @@ title: Faucets
 slug: /tools/faucets
 ---
 
-## QuickNode Faucet
+### QuickNode Faucet
 
 | **Details**         | **Information** |
 |:--------------------|:----------------|
@@ -11,7 +11,7 @@ slug: /tools/faucets
 | **Usage Limit**     | Limited to one drip request per network in a 12-hour time-frame. |
 | **Access**          | [QuickNode Faucet](https://faucet.quicknode.com/ethereum/sepolia) |
 
-## Bware Labs Faucet
+### Bware Labs Faucet
 
 | **Details**         | **Information** |
 |:--------------------|:----------------|
@@ -19,7 +19,7 @@ slug: /tools/faucets
 | **Usage Limit**     | Limited to one drip request per network in a 24-hour time-frame. |
 | **Access**          | [Bware Labs Faucet](https://bwarelabs.com/faucets) |
 
-## Alchemy Faucet
+### Alchemy Faucet
 
 | **Details**         | **Information** |
 |:--------------------|:----------------|
@@ -27,7 +27,7 @@ slug: /tools/faucets
 | **Usage Limit**     | Limited to one drip request per network in a 24-hour time-frame. |
 | **Access**          | [Alchemy Faucet](https://sepoliafaucet.com/) |
 
-## Infura Faucet
+### Infura Faucet
 
 | **Details**         | **Information** |
 |:--------------------|:----------------|

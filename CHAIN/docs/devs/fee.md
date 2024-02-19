@@ -7,14 +7,14 @@ slug: /fee
 
 Chain Network employs a dual-layer fee structure to optimize both execution and security.
 
-### Layer 2 (L2) Execution Fee
+### L2 Fee
 
 | **Aspect**              | **Details**                                                                                                           |
 | :---------------------- | :-------------------------------------------------------------------------------------------------------------------- |
 | **Calculation Formula** | `transaction_gas_price = l2_base_fee + l2_priority_fee`<br />`l2_execution_fee = transaction_gas_price * l2_gas_used` |
 | **Ethereum Comparison** | Chain Network's L2 execution fees are significantly lower than Ethereum's fee structure.                              |
 
-### Layer 1 (L1) Security Fee
+### L1 Fee
 
 | **Aspect**       | **Details**                                                                                         |
 | :--------------- | :-------------------------------------------------------------------------------------------------- |
@@ -22,7 +22,7 @@ Chain Network employs a dual-layer fee structure to optimize both execution and 
 | **Base Fee**     | Subject to short-term fluctuations, influenced by network congestion and previous block's base fee. |
 | **Priority Fee** | User-set fee, advised to be kept as low as possible.                                                |
 
-### Accurate Fee Calculation
+### Fee Calculation
 
 | **Layer**                 | **Calculation Method**                         |
 | :------------------------ | :--------------------------------------------- |
@@ -30,7 +30,7 @@ Chain Network employs a dual-layer fee structure to optimize both execution and 
 | **Layer 1 (L1)**          | Calculate using tools like `GasPriceOracle`.   |
 | **Total Fee Computation** | Sum of L2 execution and L1 data/security fees. |
 
-### Transaction Handling
+### Handling
 
 | **Aspect**              | **Details**                                                                        |
 | :---------------------- | :--------------------------------------------------------------------------------- |

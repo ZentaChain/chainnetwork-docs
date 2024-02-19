@@ -3,7 +3,9 @@ title: Networks
 slug: /networks
 ---
 
-## Chain Testnet
+### Chain Testnet
+
+---
 
 | Name            | Value                                                                   |
 |:----------------|:------------------------------------------------------------------------|
@@ -14,7 +16,9 @@ slug: /networks
 | Currency Symbol | Ether (ETH)                                                             |
 | Block Explorer  | [https://sepolia-explorer.zentachain.io/](https://sepolia-explorer.zentachain.io) |
 
-## Chain Mainnet Soon
+---
+
+### Chain Mainnet Soon
 
 | Name            | Value                                                                   |
 |:----------------|:------------------------------------------------------------------------|

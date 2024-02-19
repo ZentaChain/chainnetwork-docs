@@ -4,7 +4,6 @@ sidebar_position: 1
 slug: /chain-networks
 ---
 
-# Chain Network with wallets
 ---
 
 ### Coinbase Wallet (Testnet)

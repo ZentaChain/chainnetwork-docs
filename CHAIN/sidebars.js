@@ -20,10 +20,10 @@ const sidebars = {
               label: "Deploying a Smart Contract",
               items: [
                 "guides/deploy-smart-contracts",
-                "guides/deploy-with-foundry",
+                // "guides/deploy-with-foundry",
                 "guides/deploy-with-remix",
                 "guides/deploy-with-thirdweb",
-                "guides/deploy-with-tenderly",
+                // "guides/deploy-with-tenderly",
               ],
               collapsible: true,
               collapsed: true,

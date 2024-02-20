@@ -13,7 +13,7 @@ slug: /chain-networks
 
 The [Coinbase Wallet](https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad?hl=en).
 
-To use CHAIN with Coinbase Wallet:
+To use Chain Network with Coinbase Wallet:
 
 1. Open the Coinbase Wallet browser extension and log in to your account.
 2. Connect to an app using Coinbase Wallet.
@@ -32,7 +32,7 @@ To use CHAIN with Coinbase Wallet:
 
 ---
 
-6. **Save Network**: Click the **Save** button to add CHAIN Sepolia as a network.
+6. **Save Network**: Click the **Save** button to add Chain Sepolia as a network.
 
 Your active network should now be switched to Chain Network.
 
@@ -59,31 +59,31 @@ Follow these simple steps to add the CHAIN Sepolia testnet as a custom network i
 
 ---
 
-6. **Save Network**: Click the **Save** button to add CHAIN Sepolia as a network.
+6. **Save Network**: Click the **Save** button to add Chain Sepolia as a network.
 
-Now, you can select CHAIN Sepolia from the network dropdown menu to connect to the testnet.
+Now, you can select Chain Sepolia from the network dropdown menu to connect to the testnet.
 
-<!-- ### CHAIN MetaMask (Mainnet)
+<!-- ### Chain MetaMask (Mainnet)
 
-To add CHAIN as a custom network to MetaMask:
+To add Chain as a custom network to MetaMask:
 
 1. Open the MetaMask browser extension.
 2. Open the network selection dropdown menu by clicking the dropdown button at the top of the extension.
 3. Click the **Add network** button.
 4. Click **Add a network manually**.
-5. In the **Add a network manually** dialog that appears, enter the following information for CHAIN mainnet:
+5. In the **Add a network manually** dialog that appears, enter the following information for Chain mainnet:
 
    | Name            | Value                                                |
    | :-------------- | :--------------------------------------------------- |
-   | Network Name    | CHAIN Mainnet                                        |
+   | Network Name    | Chain Mainnet                                        |
    | Description     | [Description Here]                              |
    | RPC Endpoint    | [RPC Endpoint Here]                             |
    | Chain ID        | [Chain ID Here]                                 |
    | Currency Symbol | [Currency Symbol Here]                          |
    | Block Explorer  | [Block Explorer URL Here]                       |
 
-6. Tap the **Save** button to save CHAIN as a network.
+6. Tap the **Save** button to save Chain as a network.
 
-You should now be able to connect to the CHAIN by selecting it from the network selection dropdown menu. -->
+You should now be able to connect to the Chain by selecting it from the network selection dropdown menu. -->
 
 ---

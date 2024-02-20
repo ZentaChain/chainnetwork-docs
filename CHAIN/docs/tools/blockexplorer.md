@@ -19,7 +19,7 @@ Arkham is a crypto intelligence platform that systematically analyzes blockchain
 
 
 <!-- ## Etherscan
-[Etherscan for CHAIN](https://chainscan.io/) brings its renowned functionality to CHAIN:
+[Etherscan for Chain](https://chainscan.io/) brings its renowned functionality to Chain:
 - Efficient search for transactions, addresses, and tokens.
 - Smart contract interaction and verification tools.
 - Detailed view of cross-layer transactions.
@@ -31,7 +31,7 @@ Dive into layer 2 with [L2scan Explorer](https://chain.l2scan.co/), optimized fo
 - Monitor network activity in real-time.
 
 ## Routescan
-[Routescan](https://superscan.network/), the versatile superchain explorer, extends its capabilities to CHAIN:
+[Routescan](https://superscan.network/), the versatile superchain explorer, extends its capabilities to Chain:
 - Easy tracking of transactions and addresses.
 - A wide array of tokens to explore.
 - Real-time price updates. -->

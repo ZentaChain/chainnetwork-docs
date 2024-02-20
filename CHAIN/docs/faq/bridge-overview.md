@@ -3,54 +3,51 @@ title: "FAQ Bridge"
 slug: "/bridge-overview"
 ---
 
----
+### What Is the Chain Bridge?
 
-### What is the Chain Bridge?
+The Chain Bridge is a decentralized application (dApp) that facilitates seamless asset transfers between Ethereum's Layer 1 (L1) and Layer 2 (L2) networks within the Chain ecosystem.
 
-The Chain Bridge is a decentralized application (dApp) that enables the seamless transfer of assets between Ethereum's Layer 1 (L1) and Layer 2 (L2) networks within the CHAIN ecosystem.
+### Which Wallets Are Supported?
 
-### Supported Wallets
+Supported wallets include MetaMask, WalletConnect, Coinbase Wallet, and Trust Wallet for mobile users, catering to a wide range of user preferences.
 
-Supported wallets include MetaMask, WalletConnect, Coinbase Wallet, and Trust Wallet for mobile users. This range ensures compatibility with a variety of user preferences.
+### How Can I Get Help?
 
-### Getting Help
+If you're encountering issues, you can reach out for support or join our vibrant community on Discord. The invite link is available on our website's header.
 
-Encountering issues? Reach out for support or join our vibrant community on Discord. The Discord invite is available in our website's header.
+### Can Assets Be Moved Bi-directionally?
 
-### Bi-directional Asset Movement
+Yes, the Chain Bridge supports bi-directional asset movement, allowing users to easily transfer assets to and from Ethereum and Chain.
 
-Yes, asset transfer via the Chain Bridge works both ways. You can easily move assets to and from Ethereum and CHAIN.
+### What Is the Transfer Duration?
 
-### Transfer Duration
+Transfer times can vary based on the current congestion levels of both Ethereum and Chain networks. Expect potential delays during peak traffic periods.
 
-Transfer times may vary based on the current congestion levels of Ethereum and Chain networks. Expect delays during peak periods.
+### How Do I Withdraw from Chain Network?
 
-### Withdrawing from CHAIN
+To withdraw, connect your wallet (set to Chain Network), select the asset you wish to bridge back to Ethereum, and confirm the transaction. You can track the status in the transaction tab.
 
-Withdrawal involves connecting your wallet (set to Chain Network), selecting the asset to bridge back to Ethereum, and confirming the transaction. Track your transaction status in the transaction tab.
+### Are There Any Usage Fees?
 
-### Usage Fees
+While there are no specific fees for using the Chain Bridge, users are subject to network gas fees on both Ethereum and Chain.
 
-While there are no specific fees for using the Chain Bridge, network fees for gas on Ethereum and Chain apply.
+### What Are the Benefits of Using Chain Network?
 
-### Benefits of Using CHAIN
+Using Chain Network provides scalability, enhanced efficiency, and access to unique dApps, along with faster transactions and lower gas fees compared to traditional Ethereum transactions.
 
-Chain offers scalability, enhanced efficiency, and access to unique dApps. Enjoy faster transactions and lower gas fees compared to traditional Ethereum transactions.
+### Is My Wallet Compatible?
 
-### Wallet Compatibility
+Most Ethereum-compatible wallets are compatible with Chain, ensuring a smooth transition and interaction within the Chain ecosystem.
 
-Most Ethereum-compatible wallets work with Chain, allowing for a smooth transition and interaction within the Chain ecosystem.
+### What Are the Associated Risks?
 
-### Associated Risks
+While significant efforts are made to ensure security and reliability, users should be aware of the inherent risks associated with blockchain transactions.
 
-Despite high security and reliability efforts, it's essential to acknowledge the inherent risks associated with blockchain transactions.
+### What Should Blockchain Beginners Know?
 
-### For Blockchain Beginners
+The Chain Bridge is designed to be user-friendly for all, including blockchain beginners. However, having a basic understanding of blockchain principles is advantageous.
 
-The Chain Bridge is designed with all users in mind, ensuring ease of use even for those new to blockchain. However, a basic understanding of blockchain principles is beneficial.
+### Can I Cancel a Withdrawal?
 
-### Canceling Withdrawals
-
-Withdrawals, once initiated, are final and cannot be canceled. It's crucial to review transactions carefully before confirmation.
-
----
+Once a withdrawal has been initiated, it is final and cannot be canceled. Always review your transactions carefully before confirmation.
+--

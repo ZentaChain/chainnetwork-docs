@@ -6,15 +6,15 @@ slug: /contracts
 # Contracts
 ---
 
-Welcome to the comprehensive contracts directory for CHAIN. This resource is designed to provide a complete overview of the contract addresses for all on-chain applications deployed as part of the CHAIN ecosystem. Our aim is to give developers, users, and enthusiasts easy access to essential information about our mainnet and testnet environments.
+Welcome to the comprehensive contracts directory for Chain network. This resource is designed to provide a complete overview of the contract addresses for all on-chain applications deployed as part of the Chain network ecosystem. Our aim is to give developers, users, and enthusiasts easy access to essential information about our mainnet and testnet environments.
 
-Here, you'll find detailed listings of various smart contracts that are integral to CHAIN's decentralized applications and services. These contracts range from essential utilities like Multicall3, enabling batched blockchain calls, to advanced integrations within the Uniswap v3 and v4 frameworks.
+Here, you'll find detailed listings of various smart contracts that are integral to Chain's decentralized applications and services. These contracts range from essential utilities like Multicall3, enabling batched blockchain calls, to advanced integrations within the Uniswap v3 and v4 frameworks.
 
-Each contract is listed with its name and a direct link to its address for easy verification, interaction, or analysis. Whether your goal is network integration, conducting research, or exploring the technical aspects of our blockchain infrastructure, this page is your portal to the full potential of CHAIN's on-chain capabilities.
+Each contract is listed with its name and a direct link to its address for easy verification, interaction, or analysis. Whether your goal is network integration, conducting research, or exploring the technical aspects of our blockchain infrastructure, this page is your portal to the full potential of Chain's on-chain capabilities.
 
 ---
 
-<!-- ## CHAIN network Mainnet
+<!-- ## Chain network Mainnet
 
 ### Multicall3
 
@@ -41,7 +41,7 @@ Each contract is listed with its name and a direct link to its address for easy 
 | Quoter V2                          | [0x](https://chainscan.org/address/0x)    |
 | Swap Router                        | [0x](https://chainscan.org/address/0x)    | -->
 
-<!-- ## CHAIN network Testnet (Sepolia)
+<!-- ## Chain network Testnet (Sepolia)
 
 ### Uniswap v3 / v4
 

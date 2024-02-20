@@ -31,7 +31,7 @@ Accessing our Services requires a compatible cryptocurrency wallet. Zentachain i
 
 - **The Sequencer:** Records and manages transactions on Zentachain.
 - **Bridge Interface:** Enables communication across blockchain networks.
-- **CHAIN Network Testnet:** Provides a sandbox for developers to test applications.
+- **Chain Network Testnet:** Provides a sandbox for developers to test applications.
 
 ### Usage Policy
 
